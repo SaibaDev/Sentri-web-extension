@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Sentri",
+    "description": "Sentri Malicious URL detection that analyzes lexical features,sie content and reputation",
+    "version": "1.0",
+    "action": {
+      "default_popup": "main.html",
+      "default_icon": "sentri.png"
+    }
+  }
